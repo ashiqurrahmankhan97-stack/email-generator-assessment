@@ -1,0 +1,102 @@
+[
+  {
+    "scenario_id": 1,
+    "intent": "Follow up after a client meeting",
+    "tone": "Formal",
+    "facts": [
+      "Meeting held on June 10",
+      "Client expressed interest in the analytics platform",
+      "Proposal will be sent by June 20"
+    ]
+  },
+  {
+    "scenario_id": 2,
+    "intent": "Request additional proposal details",
+    "tone": "Professional",
+    "facts": [
+      "Proposal received yesterday",
+      "Need pricing breakdown",
+      "Need implementation timeline"
+    ]
+  },
+  {
+    "scenario_id": 3,
+    "intent": "Apologize for project delivery delay",
+    "tone": "Empathetic",
+    "facts": [
+      "Project delayed by two weeks",
+      "Issue caused by vendor dependency",
+      "New delivery date is July 15"
+    ]
+  },
+  {
+    "scenario_id": 4,
+    "intent": "Invite candidate for interview",
+    "tone": "Friendly",
+    "facts": [
+      "Position is AI Engineer",
+      "Interview scheduled for June 25",
+      "Interview duration is one hour"
+    ]
+  },
+  {
+    "scenario_id": 5,
+    "intent": "Remind customer about overdue payment",
+    "tone": "Firm",
+    "facts": [
+      "Invoice amount is $5,000",
+      "Payment is 15 days overdue",
+      "Payment link is attached"
+    ]
+  },
+  {
+    "scenario_id": 6,
+    "intent": "Announce project completion",
+    "tone": "Professional",
+    "facts": [
+      "Project completed ahead of schedule",
+      "Delivered all agreed features",
+      "Final report attached"
+    ]
+  },
+  {
+    "scenario_id": 7,
+    "intent": "Escalate unresolved support issue",
+    "tone": "Urgent",
+    "facts": [
+      "Issue open for 10 days",
+      "Customer impacted daily",
+      "Immediate action required"
+    ]
+  },
+  {
+    "scenario_id": 8,
+    "intent": "Request contract clarification",
+    "tone": "Formal",
+    "facts": [
+      "Question about renewal clause",
+      "Contract expires August 31",
+      "Need response before July 15"
+    ]
+  },
+  {
+    "scenario_id": 9,
+    "intent": "Provide executive project update",
+    "tone": "Concise",
+    "facts": [
+      "Project is 85 percent complete",
+      "Budget remains on target",
+      "Go-live planned for September"
+    ]
+  },
+  {
+    "scenario_id": 10,
+    "intent": "Retain a dissatisfied customer",
+    "tone": "Empathetic",
+    "facts": [
+      "Multiple service issues occurred",
+      "Offer a 20 percent discount as goodwill",
+      "Schedule a follow-up call next week"
+    ]
+  }
+]
